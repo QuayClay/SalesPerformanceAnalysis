@@ -19,4 +19,4 @@ Explore the live dashboard here:
 
 **Static Preview**
 
-<img width="1999" height="1545" alt="image" src="https://github.com/user-attachments/assets/31aaa6eb-0a97-4eb8-9a91-4a92fb9a8d05" />
+<img width="2000" height="2830" alt="image" src="https://github.com/user-attachments/assets/1ae9b0c3-d20e-4c4b-8c0d-6c336f6466aa" />
