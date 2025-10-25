@@ -1,5 +1,14 @@
 # Sales Performance Analysis
-Interactive Tableau dashboard analyzing sales performance. 
+This interactive Tableau dashboard was created in **Tableau Desktop** to analyze sales performance across sales teams, product categoryies, and regions. It highlights key KPIs such as:
+* Sales and Profitability Trends
+* Sales Goals & Sales Goal Achievement
+* Product Category Performance
+* Profit Margins
+
+### Tools & Skills Demonstrated
+* **Data Visualization:** Tableau Desktop
+* **Dashboard Design:** Interactive KPIs, Filters, Dashboard Parameters
+* **Storytelling:** Insights into Sales Performance evaluation.
 
 # Interactive Dashboard
 
