@@ -17,6 +17,6 @@ Explore the live dashboard here:
 
 * Note: This dashboard is view-only. Editing and downloads have been disabled.
 
-**Static Preview**
+## Static Preview
 
 <img width="2000" height="2830" alt="image" src="https://github.com/user-attachments/assets/1ae9b0c3-d20e-4c4b-8c0d-6c336f6466aa" />
